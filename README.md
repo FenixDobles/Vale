@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -108,7 +108,7 @@
         <p>(no sabia que titulo poner)</p><p>Capaz esto no sea una Playlist completa, pero te queria "dedicar" esta canción, pues refleja lo que siento por usted niña bella<p>
         <a href="https://www.youtube.com/watch?v=ntdwWKaGaPQ&list=RDntdwWKaGaPQ&start_radio=1" style="color: pink; text-decoration: none; font-weight: bold;">
     Pa ti linda 💖
-</section>
+    </section>
 
     <footer>
         <p>Te quiero besar y abrazar mucho señorita bonita</p>
