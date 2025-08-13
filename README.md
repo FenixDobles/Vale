@@ -1,80 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página Romántica Interactiva</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        body {
-            font-family: 'Segoe UI', sans-serif;
-            background: linear-gradient(135deg, #ff4b5c, #ff758c);
-            color: white;
-            min-height: 100vh;
-        }
-        header {
-            text-align: center;
-            padding: 2rem;
-        }
-        nav {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            background: rgba(255, 255, 255, 0.15);
-            padding: 10px;
-            backdrop-filter: blur(5px);
-        }
-        nav button {
-            background: #ffe6e6;
-            color: #b3003b;
-            border: none;
-            padding: 10px 20px;
-            cursor: pointer;
-            border-radius: 20px;
-            font-weight: bold;
-            transition: background 0.3s, transform 0.2s;
-        }
-        nav button:hover {
-            background: #ffd1d1;
-            transform: scale(1.05);
-        }
-        section {
-            display: none;
-            max-width: 900px;
-            margin: 40px auto;
-            background: rgba(255, 255, 255, 0.15);
-            padding: 20px;
-            border-radius: 15px;
-            backdrop-filter: blur(5px);
-            animation: fadeIn 0.8s ease-in-out;
-        }
-        section.active {
-            display: block;
-        }
-        h2 {
-            color: #ffe6e6;
-            margin-bottom: 10px;
-        }
-        footer {
-            text-align: center;
-            padding: 20px;
-            background: rgba(255, 255, 255, 0.15);
-            backdrop-filter: blur(5px);
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(10px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-    </style>
-</head>
-<body>
+
 
     <header>
         <h1>Holi Bonis <3</h1>
@@ -108,7 +32,7 @@
         <p>(no sabia que titulo poner)</p><p>Capaz esto no sea una Playlist completa, pero te queria "dedicar" esta canción, pues refleja lo que siento por usted niña bella<p>
         <a href="https://www.youtube.com/watch?v=ntdwWKaGaPQ&list=RDntdwWKaGaPQ&start_radio=1" style="color: pink; text-decoration: none; font-weight: bold;">
     Pa ti linda 💖
-</section>
+
 
     <footer>
         <p>Te quiero besar y abrazar mucho señorita bonita</p>
@@ -121,5 +45,3 @@
         }
     </script>
 
-</body>
-</html>
